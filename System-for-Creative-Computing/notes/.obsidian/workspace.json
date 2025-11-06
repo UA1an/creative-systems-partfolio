@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "5ccd2e73a7e1b226",
+    "id": "754b4897fcc894c2",
     "type": "split",
     "children": [
       {
-        "id": "3b45f31e763bb451",
+        "id": "9512f4289a8862af",
         "type": "tabs",
         "children": [
           {
-            "id": "13869e0c007d93e6",
+            "id": "a7cff1218a24c35e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SFCC Week 5 (Pure Data).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "SFCC Week 5 (Pure Data)"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "69690cc3b2cd7d89",
+    "id": "e221de3bac4869a9",
     "type": "split",
     "children": [
       {
-        "id": "add352f10c47d403",
+        "id": "5b30c782b53a6f44",
         "type": "tabs",
         "children": [
           {
-            "id": "7bc4da3dfeab6c67",
+            "id": "ce50cb8af008d81b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "04a1b1d6813861be",
+            "id": "1f49c46c58e4b23d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "d7e813afb3173904",
+            "id": "301affee7c2b5fc3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "efa1dda2a6fece12",
+    "id": "e14f9a413aadd7e6",
     "type": "split",
     "children": [
       {
-        "id": "9b682c94511ff997",
+        "id": "2930b8ef2298d12f",
         "type": "tabs",
         "children": [
           {
-            "id": "b4ea22777899c261",
+            "id": "abab15769b72f140",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SFCC Week 5 (Pure Data).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for SFCC Week 5 (Pure Data)"
             }
           },
           {
-            "id": "bce1b19ac26bb85a",
+            "id": "69104c0a7b03c1f1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SFCC Week 5 (Pure Data).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from SFCC Week 5 (Pure Data)"
             }
           },
           {
-            "id": "615868c9b49a6ea4",
+            "id": "108b1c26df544873",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,7 +137,7 @@
             }
           },
           {
-            "id": "c9640c0d6bb7cc41",
+            "id": "1ae4c11355a9bc8b",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -163,23 +169,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "7bc4da3dfeab6c67",
+  "active": "a7cff1218a24c35e",
   "lastOpenFiles": [
-    "notes/photo materials/8750D5AA-DAEE-4A36-9D2A-D037704BF885_1_201_a.jpeg",
-    "notes/8750D5AA-DAEE-4A36-9D2A-D037704BF885_1_201_a.jpeg",
-    "notes/photo materials/D7217A93-6CF7-4E4A-B37B-14A390AD9B1A_1_201_a.jpeg",
-    "notes/photo materials",
-    "notes/2025-10-23.md",
-    "notes/SFCC Week 5 (Pure Data).md",
-    "notes/SFCC Week 4 (FLOSS).md",
-    "notes/SFCC notes week 2.md",
-    "notes",
-    "untitled folder",
-    "PD/osmos.pd",
     "SFCC Week 4 (FLOSS).md",
     "SFCC notes week 2.md",
-    "SFCC notes week 2 copy.md",
-    "README.md",
-    "8750D5AA-DAEE-4A36-9D2A-D037704BF885_1_201_a.jpeg"
+    "2025-10-23.md"
   ]
 }
