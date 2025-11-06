@@ -15,3 +15,12 @@
 - * ~ using for control volume sound
 - dac~ help make audio output
 
+### Task 2
+
+![[6563E608-3E43-49DB-8856-03D6C048667F.png]]
+*adding sound and make library*
+
+![[125C1FE0-3E9B-4977-AF9A-880B380B4EE1_1_201_a.jpeg]]
+
+
+![[Screenshot 2025-11-06 at 17.02.04.png]]
