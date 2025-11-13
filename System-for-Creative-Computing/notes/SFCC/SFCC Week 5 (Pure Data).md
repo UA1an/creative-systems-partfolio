@@ -24,3 +24,5 @@
 
 
 ![[Screenshot 2025-11-06 at 17.02.04.png]]
+*final result*
+
