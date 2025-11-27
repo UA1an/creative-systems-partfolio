@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SFCC/SFCC notes week 2.md",
+                "file": "SFCC/SFCC Week 5 (Pure Data).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SFCC notes week 2"
+              "title": "SFCC Week 5 (Pure Data)"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SFCC/SFCC notes week 2.md",
+                "file": "SFCC/SFCC Week 5 (Pure Data).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SFCC notes week 2"
+              "title": "Outline of SFCC Week 5 (Pure Data)"
             }
           }
         ],
@@ -171,6 +171,7 @@
   },
   "active": "dc40da32cd728218",
   "lastOpenFiles": [
+    "SFCC/SFCC notes week 2.md",
     "b04cc49e8db0deabb74e6ef260dd2495db7731c2.md",
     "photo materials/Screenshot 2025-11-27 at 16.53.32.png",
     "SFCC/SFCC Week 9 (Open Sound Control (OSC)).md",
@@ -186,7 +187,6 @@
     "photo materials/Pasted image 20251107120007.png",
     "photo materials/Pasted image 20251107104532.png",
     "photo materials/D7217A93-6CF7-4E4A-B37B-14A390AD9B1A_1_201_a.jpeg",
-    "SFCC/SFCC notes week 2.md",
     "SFCC/SFCC Week 4 (FLOSS).md",
     "photo materials",
     "SFCC/images",
