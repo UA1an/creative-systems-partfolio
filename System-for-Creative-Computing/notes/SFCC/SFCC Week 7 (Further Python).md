@@ -1,8 +1,3 @@
-- [[SFCC notes week 2]]
--  [[SFCC Week 4 (FLOSS)]]
-- [[GA Week 5 Fractal]]
-- [[SFCC Week 6 (Further Python)]]
-### Lists
 
 - **Group together elements in a list:**
   `beatles = [’John’, ‘Paul’, ‘George’, ‘Ringo’]`

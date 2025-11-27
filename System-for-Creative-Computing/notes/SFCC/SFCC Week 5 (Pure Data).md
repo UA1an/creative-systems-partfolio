@@ -1,6 +1,3 @@
-- [[SFCC notes week 2]]
-- [[SFCC Week 4 (FLOSS)]]
-
 #### Discovery Pd Program
 
 ![[D7217A93-6CF7-4E4A-B37B-14A390AD9B1A_1_201_a.jpeg]]

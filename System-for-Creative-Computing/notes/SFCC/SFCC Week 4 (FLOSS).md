@@ -1,5 +1,3 @@
-- [[SFCC notes week 2]]
-
 - ==***command + ,***==  key for open General Setting in Obsidian
 - ==***option + D***== key (may change in the setting) for open daily notes
 ## This is a heading
@@ -7,7 +5,11 @@
 `#!/bin/bash`
 
 
+<<<<<<< HEAD
 ```sh
+=======
+```python
+>>>>>>> b04cc49e8db0deabb74e6ef260dd2495db7731c2
 #bash/python/sh     
 #!/bin/bash
 
