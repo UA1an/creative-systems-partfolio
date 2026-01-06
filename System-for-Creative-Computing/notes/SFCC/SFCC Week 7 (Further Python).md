@@ -76,15 +76,15 @@
   - Never open a third-party shelf – other code may execute without you knowing…
 
 ### Example
-![Example](../photo%20materials/Screenshot%2025-11-13%at%15.32.45.png)
+![Example](../photo%20materials/15.32.45.png)
 
 
 ## Loops and conditionals use similar syntax:
-![](../photo%20materials/Screenshot%2025-11-13%at%15.41.32.png)
+![](../photo%20materials/15.41.32.png)
 
 
 ## Conditional Statements
-![](../photo%20materials/Pasted%image%20251113154237.png)
+![](../photo%20materials/1113154237.png)
 
 
 ## Conditional Operators
@@ -119,7 +119,7 @@ So:
 This is called ==**“Boolean logic”**==, and is another skill you will learn in time
 
 #### for loops
-![](../photo%20materials/Pasted%image%20251113155221.png)
+![](../photo%20materials/1113155221.png)
 ### Example:
 `For counter in [‘one’, ‘two’, ‘three’]:`
 	`print counter`
@@ -167,7 +167,7 @@ An “Object” is an abstract data structure intended to mimic the real world
 Everything in Python is an object (though you might not see this)
 
 ### Example: A Class
-![[Pasted image 20251113160213.png]]
+![](../photo%20materials/1113160213.png)
 
 
 
@@ -213,4 +213,4 @@ plt.show()
 
 ```
 
-![](../photo%20materials/Pasted%image%20251113162527.png)
+![](../photo%20materials/1113162527.png)
