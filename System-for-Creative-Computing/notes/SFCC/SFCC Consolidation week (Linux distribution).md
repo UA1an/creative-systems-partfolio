@@ -2,8 +2,8 @@ I used the Linux distribution **Ubuntu** during my studies. At the beginning, it
 
 I learned how to use the terminal, install programs, and manage basic system settings. Ubuntu was stable and worked well for my tasks. Overall, this experience helped me improve my technical skills and better understand operating systems.
 
-![[0106194247.png]]
+![](../photo%20materials/0106194247.png)
 //*Ubuntu machine is running*
 
-![[0106194437.png]]
+![](../photo%20materials/0106194437.png)
 //*Oracle VirtualBox Manager Page*
