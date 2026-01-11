@@ -60,5 +60,4 @@ This task helped me understand how Pure Data can be used for generative MIDI sys
 I can see how this approach could be expanded by connecting the MIDI output to external software instruments, hardware synthesisers, or more complex generative systems in future projects.
 
 ## Result
-
 ![](../photo%20materials/Result11.png)
