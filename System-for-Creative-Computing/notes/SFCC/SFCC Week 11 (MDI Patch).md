@@ -12,32 +12,39 @@ A toggle object is used to start and stop the system. When activated, it trigger
  
 * ### Toggle (`tgl`)
   The toggle is used to control the patch. When switched on, it activates the metro object and starts the generation of MIDI notes. When switched off, the patch stops sending data.
-![[Toggle.png]]
+  
+![](../photo%20materials/Toggle.png)
 ---
 * ### Metro (`metro 500`)
   The metro object sends a bang every 500 milliseconds. This controls the rhythm and timing of the MIDI note generation.
-![[Metro.png]]
+  
+![](../photo%20materials/Metro.png)
 ---
 * ### Random (`random 60`)
   The random object generates random numbers between 0 and 59. These values represent raw MIDI note offsets.
-![[Random.png]]
+  
+![](../photo%20materials/Random.png)
 ---
 * ### Addition (`+ 30`)
   This object shifts the generated values into a more musical MIDI note range (approximately notes 30–89), avoiding extremely low or high pitches.
-![[Addition.png]]
+  
+![](../photo%20materials/Addition.png)
 ---
 * ### Number Box
   A number box is connected to the note generation chain to visually display the changing MIDI note values. This confirms that the patch is actively generating notes, even if no sound is produced.
-![[NumberBox.png]]
+  
+![](../photo%20materials/NumberBox.png)
 ---
 * ### MakeNote (`makenote 100 300`)
   The makenote object converts the MIDI note numbers into proper MIDI note on and note off messages. It also defines the velocity and duration of each note.
-![[MakeNote.png]]
+  
+![](../photo%20materials/MakeNote.png)
 ---
 
 * ### NoteOut (`noteout`)
   The noteout object sends the generated MIDI data to the selected MIDI output device.
-![[NoteOut.png]]
+  
+![](../photo%20materials/NoteOut.png)
 
 
 ## MIDI Output and Visibility
@@ -54,4 +61,4 @@ I can see how this approach could be expanded by connecting the MIDI output to e
 
 ## Result
 
-![[Result11.png]]
+![](../photo%20materials/Result11.png)
