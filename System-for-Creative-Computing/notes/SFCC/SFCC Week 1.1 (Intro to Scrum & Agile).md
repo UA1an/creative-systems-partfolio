@@ -12,7 +12,8 @@
 
 The **Agile Manifesto** is ==the foundational document that defined modern agile development==. Created in February 2001 by 17 software developers at a ski resort in Snowbird, Utah, it shifted the focus of creative and technical work away from rigid, documentation-heavy processes toward collaboration and flexibility.
 
-[![Manifesto for Agile Software Development - Kanban Zone](https://kanbanzone.com/wp-content/uploads/2020/08/agile-manifesto.png)
+![](https://kanbanzone.com/wp-content/uploads/2020/08/agile-manifesto.png)
+
 *Manifesto for Agile Software Development - Kanban Zone*
 
 ---
@@ -53,7 +54,7 @@ The **Agile Manifesto** is ==the foundational document that defined modern ag
 
 **Scrum** is a lightweight, agile framework designed to help teams generate value through adaptive solutions for complex problems. It is most commonly used in software development but is applicable to any project requiring iterative progress.
 
-[![What is Scrum? Simplifying Project Delivery Using Scrum Methodology](https://www.valuex2.com/wp-content/uploads/2024/06/What-is-Scrum-1024x576.jpeg)
+![What is Scrum? Simplifying Project Delivery Using Scrum Methodology](https://www.valuex2.com/wp-content/uploads/2024/06/What-is-Scrum-1024x576.jpeg)
 
 ---
 ## How to do Scrum
