@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SFCC/SFCC Week 5 (Pure Data).md",
+                "file": "SFCC/SFCC Week 1.1 (Intro to Scrum & Agile).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SFCC Week 5 (Pure Data)"
+              "title": "SFCC Week 1.1 (Intro to Scrum & Agile)"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SFCC/SFCC Week 5 (Pure Data).md",
+                "file": "SFCC/SFCC Week 1.1 (Intro to Scrum & Agile).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SFCC Week 5 (Pure Data)"
+              "title": "Outline of SFCC Week 1.1 (Intro to Scrum & Agile)"
             }
           }
         ],
@@ -171,26 +171,33 @@
   },
   "active": "dc40da32cd728218",
   "lastOpenFiles": [
+    "SFCC/SFCC Week 7 (Further Python).md",
+    "SFCC/SFCC Week 1.1 (Intro to Scrum & Agile).md",
+    "SFCC/SFCC Week 12 (Mini creative system).md",
+    "Untitled.md",
+    "GA/GA Week 5 Fractal.md",
+    "photo materials/Toggle.png",
+    "photo materials/TerminalResult.png",
+    "photo materials/ScreenOfWork.png",
+    "photo materials/Result11.png",
+    "photo materials/Random.png",
+    "photo materials/NumberBox.png",
+    "photo materials/NoteOut.png",
+    "photo materials/Metro.png",
+    "photo materials/MakeNote.png",
+    "photo materials/Addition.png",
+    "SFCC/SFCC Week 6 (Pure Data).md",
+    "SFCC/SFCC Week 11 (MDI Patch).md",
+    "SFCC/SFCC Week 10 (Python Web Scraper).md",
+    "SFCC/SFCC Consolidation week (Linux distribution).md",
+    "SFCC/SFCC Week 5 (Pure Data).md",
     "SFCC/SFCC notes week 2.md",
     "b04cc49e8db0deabb74e6ef260dd2495db7731c2.md",
-    "photo materials/Screenshot 2025-11-27 at 16.53.32.png",
     "SFCC/SFCC Week 9 (Open Sound Control (OSC)).md",
     "SFCC/SFCC Week 8 (SuperCollider).md",
-    "SFCC/SFCC Week 7 (Further Python).md",
-    "SFCC/SFCC Week 5 (Pure Data).md",
-    "photo materials/Screenshot 2025-11-13 at 15.41.32.png",
-    "photo materials/Screenshot 2025-11-13 at 15.32.45.png",
-    "photo materials/Screenshot 2025-11-06 at 17.02.04.png",
-    "photo materials/Pasted image 20251113162527.png",
-    "photo materials/Pasted image 20251113160213.png",
-    "photo materials/Pasted image 20251113155221.png",
-    "photo materials/Pasted image 20251107120007.png",
-    "photo materials/Pasted image 20251107104532.png",
-    "photo materials/D7217A93-6CF7-4E4A-B37B-14A390AD9B1A_1_201_a.jpeg",
     "SFCC/SFCC Week 4 (FLOSS).md",
     "photo materials",
     "SFCC/images",
-    "GA/GA Week 5 Fractal.md",
     "Test throw away.md",
     "images",
     "2025-10-23.md",

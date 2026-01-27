@@ -31,4 +31,4 @@ Some code that might be useful. More extensive details and examples in the P5JS 
 | function keyPressed () {<br><br>body of function<br><br>} | function keyPressed () {<br><br>   if (keyCode == ENTER) {<br><br>     saveCanvas ("screen-####.jpg");} } | The keyPressed() function is called once every time a key is pressed.<br><br>Example saves canvas as image.                                        | [Link](https://p5js.org/reference/#/p5/keyPressed)   |
 
 
-![[Pasted image 20251107120007 1.png]]
+![[Pasted image 20251107120007.png]]
