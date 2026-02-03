@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "SFCC Week 1.1 (Intro to Scrum & Agile)"
             }
+          },
+          {
+            "id": "d2c5a70fdc22d9d0",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "photo materials/ScrumDiagram.png"
+              },
+              "icon": "lucide-image",
+              "title": "ScrumDiagram"
+            }
           }
         ]
       }
@@ -171,8 +183,9 @@
   },
   "active": "dc40da32cd728218",
   "lastOpenFiles": [
-    "photo materials/Scrum in one diagram.png",
+    "photo materials/ScrumDiagram.png",
     "SFCC/SFCC Week 1.1 (Intro to Scrum & Agile).md",
+    "SFCC/SFCC Week 12 (Mini creative system).md",
     "photo materials/Utah.png",
     "photo materials/Screenshot 2026-01-27 at 16.29.58.png",
     "photo materials/ScreenOfWork.png",
@@ -180,7 +193,6 @@
     "SFCC/SFCC notes week 2.md",
     "Utah.md",
     "SFCC/SFCC Week 7 (Further Python).md",
-    "SFCC/SFCC Week 12 (Mini creative system).md",
     "Untitled.md",
     "GA/GA Week 5 Fractal.md",
     "photo materials/Toggle.png",

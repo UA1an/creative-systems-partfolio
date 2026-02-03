@@ -63,4 +63,4 @@ To do Scrum, a team breaks a large project into small pieces and works on them d
 ---
 ## Scrum in one diagram
 
-![[Scrum in one diagram.png]]
+![[ScrumDiagram.png]]
