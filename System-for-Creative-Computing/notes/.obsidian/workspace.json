@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SFCC/SFCC Week 1.1 (Intro to Scrum & Agile).md",
+                "file": "SFCC/SFCC Consolidation week (Linux distribution).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SFCC Week 1.1 (Intro to Scrum & Agile)"
+              "title": "SFCC Consolidation week (Linux distribution)"
             }
           },
           {
@@ -154,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SFCC/SFCC Week 1.1 (Intro to Scrum & Agile).md",
+                "file": "SFCC/SFCC Consolidation week (Linux distribution).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SFCC Week 1.1 (Intro to Scrum & Agile)"
+              "title": "Outline of SFCC Consolidation week (Linux distribution)"
             }
           }
         ],
@@ -183,8 +183,9 @@
   },
   "active": "dc40da32cd728218",
   "lastOpenFiles": [
-    "photo materials/ScrumDiagram.png",
+    "2025-10-23.md",
     "SFCC/SFCC Week 1.1 (Intro to Scrum & Agile).md",
+    "photo materials/ScrumDiagram.png",
     "SFCC/SFCC Week 12 (Mini creative system).md",
     "photo materials/Utah.png",
     "photo materials/Screenshot 2026-01-27 at 16.29.58.png",
@@ -213,7 +214,6 @@
     "SFCC/images",
     "Test throw away.md",
     "images",
-    "2025-10-23.md",
     "attachments/ginger-cats-mystery-solved.html",
     "attachments",
     "GA",
