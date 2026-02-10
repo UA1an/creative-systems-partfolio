@@ -159,7 +159,7 @@
               "state": {
                 "file": "SFCC/SFCC Week 1.2 (Markdown, AI & GitHub collaboration ).md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
@@ -184,7 +184,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "226a5894dabae97f",
+  "active": "1ae4c11355a9bc8b",
   "lastOpenFiles": [
     "SFCC/SFCC Week 1.1 (Intro to Scrum & Agile).md",
     "SFCC/SFCC Week 1.2 (Markdown, AI & GitHub collaboration ).md",
