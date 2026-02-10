@@ -22,18 +22,21 @@
             }
           },
           {
-            "id": "d2c5a70fdc22d9d0",
+            "id": "226a5894dabae97f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "photo materials/ScrumDiagram.png"
+                "file": "SFCC/SFCC Week 1.2 (Markdown, AI & GitHub collaboration ).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "ScrumDiagram"
+              "icon": "lucide-file",
+              "title": "SFCC Week 1.2 (Markdown, AI & GitHub collaboration )"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 271.5
   },
   "right": {
     "id": "e14f9a413aadd7e6",
@@ -154,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SFCC/SFCC Consolidation week (Linux distribution).md",
+                "file": "SFCC/SFCC Week 1.2 (Markdown, AI & GitHub collaboration ).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SFCC Consolidation week (Linux distribution)"
+              "title": "Outline of SFCC Week 1.2 (Markdown, AI & GitHub collaboration )"
             }
           }
         ],
@@ -181,20 +184,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "dc40da32cd728218",
+  "active": "226a5894dabae97f",
   "lastOpenFiles": [
-    "2025-10-23.md",
     "SFCC/SFCC Week 1.1 (Intro to Scrum & Agile).md",
+    "SFCC/SFCC Week 1.2 (Markdown, AI & GitHub collaboration ).md",
+    "SFCC/SFCC Consolidation week (Linux distribution).md",
     "photo materials/ScrumDiagram.png",
+    "2025-10-23.md",
     "SFCC/SFCC Week 12 (Mini creative system).md",
     "photo materials/Utah.png",
     "photo materials/Screenshot 2026-01-27 at 16.29.58.png",
     "photo materials/ScreenOfWork.png",
-    "SFCC/SFCC Consolidation week (Linux distribution).md",
     "SFCC/SFCC notes week 2.md",
     "Utah.md",
     "SFCC/SFCC Week 7 (Further Python).md",
-    "Untitled.md",
     "GA/GA Week 5 Fractal.md",
     "photo materials/Toggle.png",
     "photo materials/TerminalResult.png",
