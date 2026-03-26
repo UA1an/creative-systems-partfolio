@@ -86,13 +86,10 @@ Key ideas:
 Assertions verify program behaviour.  
 If the condition is false, the test fails.
 
-Common examples:
 
-- `assertEqual(a, b)`
-- `assertTrue(x)`
-- `assertFalse(x)`
-- `assertIsNone(x)`
-- `assertIn(a, b)`
+| Method Checks that<br>                                                                                                                                                                                                                                                                                                                                                                                          | Checks that                                                                                                                                                                                                                                               |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **`assertEqual(a, b)`** <br>**`assertNotEqual(a, b)`** <br>**`assertTrue(x)`** <br>**`assertFalse(x)`**<br>**`assertIs(a, b)`** <br>**`assertIsNot(a, b)`** <br>**`assertIsNone(x)`** <br>**`assertIsNotNone(x)`** <br>**`assertIn(a, b)`**<br>**`assertNotIn(a, b)`** <br>**`assertIsInstance(a, b)`**<br>**`assertNotIsInstance(a, b)`** <br>**`assertIsSubclass(a, b)`** <br>**`assertNotIsSubclass(a, b)`** | `a == b`<br>`a != b`<br>`bool(x) is True`<br>`bool(x) is False`<br>`a is b`<br>`a is not b`<br>`x is None`<br>`x is not None`<br>`a in b`<br>`a not in b`<br>`isinstance(a, b)`<br>`not isinstance(a, b)`<br>`issubclass(a, b)`<br>`not issubclass(a, b)` |
 
 ---
 

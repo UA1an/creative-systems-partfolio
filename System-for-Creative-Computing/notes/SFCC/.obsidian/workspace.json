@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "02a76acf4c3ade81",
+        "id": "ee7d4f05cfaf095c",
         "type": "tabs",
         "children": [
           {
-            "id": "c601809c6186eadb",
+            "id": "e8df351e2922915a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,8 +183,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "c601809c6186eadb",
+  "active": "e8df351e2922915a",
   "lastOpenFiles": [
-    "SFCC Week 20 (Testing).md"
+    "2026-03-26.md",
+    "SFCC Week 20 (Testing).md",
+    "SFCC Week 1.4 (Debugging).md",
+    "SFCC Week 9 (Open Sound Control (OSC)).md",
+    "SFCC Week 10 (Python Web Scraper).md",
+    "SFCC Week 11 (MDI Patch).md",
+    "SFCC Week 12 (Mini creative system).md"
   ]
 }
