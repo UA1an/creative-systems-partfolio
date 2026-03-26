@@ -86,10 +86,22 @@ Key ideas:
 Assertions verify program behaviour.  
 If the condition is false, the test fails.
 
-
-| Method Checks that<br>                                                                                                                                                                                                                                                                                                                                                                                          | Checks that                                                                                                                                                                                                                                               |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **`assertEqual(a, b)`** <br>**`assertNotEqual(a, b)`** <br>**`assertTrue(x)`** <br>**`assertFalse(x)`**<br>**`assertIs(a, b)`** <br>**`assertIsNot(a, b)`** <br>**`assertIsNone(x)`** <br>**`assertIsNotNone(x)`** <br>**`assertIn(a, b)`**<br>**`assertNotIn(a, b)`** <br>**`assertIsInstance(a, b)`**<br>**`assertNotIsInstance(a, b)`** <br>**`assertIsSubclass(a, b)`** <br>**`assertNotIsSubclass(a, b)`** | `a == b`<br>`a != b`<br>`bool(x) is True`<br>`bool(x) is False`<br>`a is b`<br>`a is not b`<br>`x is None`<br>`x is not None`<br>`a in b`<br>`a not in b`<br>`isinstance(a, b)`<br>`not isinstance(a, b)`<br>`issubclass(a, b)`<br>`not issubclass(a, b)` |
+| Method Checks that                                                                                                                                           | Checks that            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------- |
+| [`assertEqual(a, b)`](https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertEqual "unittest.TestCase.assertEqual")                         | `a == b`               |
+| [`assertNotEqual(a, b)`](https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertNotEqual "unittest.TestCase.assertNotEqual")                | `a != b`               |
+| [`assertTrue(x)`](https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertTrue "unittest.TestCase.assertTrue")                               | `bool(x) is True`      |
+| [`assertFalse(x)`](https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertFalse "unittest.TestCase.assertFalse")                            | `bool(x) is False`     |
+| [`assertIs(a, b)`](https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertIs "unittest.TestCase.assertIs")                                  | `a is b`               |
+| [`assertIsNot(a, b)`](https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertIsNot "unittest.TestCase.assertIsNot")                         | `a is not b`           |
+| [`assertIsNone(x)`](https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertIsNone "unittest.TestCase.assertIsNone")                         | `x is None`            |
+| [`assertIsNotNone(x)`](https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertIsNotNone "unittest.TestCase.assertIsNotNone")                | `x is not None`        |
+| [`assertIn(a, b)`](https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertIn "unittest.TestCase.assertIn")                                  | `a in b`               |
+| [`assertNotIn(a, b)`](https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertNotIn "unittest.TestCase.assertNotIn")                         | `a not in b`           |
+| [`assertIsInstance(a, b)`](https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertIsInstance "unittest.TestCase.assertIsInstance")          | `isinstance(a, b)`     |
+| [`assertNotIsInstance(a, b)`](https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertNotIsInstance "unittest.TestCase.assertNotIsInstance") | `not isinstance(a, b)` |
+| [`assertIsSubclass(a, b)`](https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertIsSubclass "unittest.TestCase.assertIsSubclass")          | `issubclass(a, b)`     |
+| [`assertNotIsSubclass(a, b)`](https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertNotIsSubclass "unittest.TestCase.assertNotIsSubclass") | not issubclass(a, b)   |
 
 ---
 
